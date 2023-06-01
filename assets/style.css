@@ -98,8 +98,8 @@ img {
 }
 
 #imgNina, #walkingMan, #camera {
-  width: 100%;
-  height: auto;
+	width: 374px;
+	height: 329px;
 }
 
 #gallery {
