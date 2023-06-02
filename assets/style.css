@@ -97,9 +97,14 @@ img {
   font-size: 14px;
 }
 
-#imgNina, #walkingMan, #camera {
+#imgNina, #camera {
 	width: 374px;
 	height: 329px;
+}
+
+#walkingMan{
+	width: 100%;
+	height: auto;
 }
 
 #gallery {
