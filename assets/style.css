@@ -103,8 +103,9 @@ img {
 }
 
 #walkingMan{
-	width: auto;
-	height: 887px;
+  width: 2560px;
+  aspect-ratio: auto 2560 / 1183;
+  height: auto;
 }
 
 #gallery {
